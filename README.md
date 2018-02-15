@@ -10,3 +10,5 @@
 
 # Current-Date-Website-
 A Website Giving Current Time Based on Location w/ Rotating Background per Re-Fresh
+
+<a href="https://github.com/KHSClass/Current-Date-Website-/blob/master/LICENSE">License</a>
